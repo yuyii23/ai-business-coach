@@ -1,0 +1,68 @@
+{
+  "session_id": "d379d672-001d-46dc-9b4c-1be9a336aa6c",
+  "state": {
+    "user_id": "demo-user",
+    "session_id": "d379d672-001d-46dc-9b4c-1be9a336aa6c",
+    "current_phase": "business_discovery",
+    "current_step": "target_audience",
+    "user_profile": {
+      "business_name": "",
+      "industry": "",
+      "business_stage": null,
+      "target_market": null,
+      "current_challenges": [
+        ""
+      ],
+      "goals": [
+        ""
+      ],
+      "extraction_metadata": {}
+    },
+    "brand_strategy": {
+      "target_audience": null,
+      "competition_analysis": null,
+      "mission_vision_values": null,
+      "brand_identity": null,
+      "brand_archetypes": null,
+      "brand_story": null,
+      "alignment_strategy": null,
+      "metrics_plan": null
+    },
+    "marketing_strategy": {
+      "situation_analysis": null,
+      "swot_analysis": null,
+      "marketing_objectives": null,
+      "customer_segments": null,
+      "competitive_analysis": null,
+      "positioning_strategy": null,
+      "priority_programs": null
+    },
+    "solution_data": {
+      "prioritization_matrix": null,
+      "vendor_recommendations": null,
+      "implementation_roadmap": null,
+      "success_metrics": null
+    },
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "อยากทำผลิตภัณฑ์เพื่อสุขภาพ ประเภท เวย์โปรตีน ให้มียอดขาย 1 แสนบาทใน 30 วัน"
+      },
+      {
+        "role": "assistant",
+        "content": "การวางแผนให้ผลิตภัณฑ์เวย์โปรตีนมียอดขาย 1 แสนบาทใน 30 วันต้องพิจารณาเรื่องต่าง ๆ เช่น การตลาด, การเสนอขาย, การโปรโมต, และการสร้างความนิยมของผลิตภัณฑ์ของคุณ นี่คือขั้นตอนที่คุณสามารถดำเนินการเพื่อให้บรรลุเป้าหมายของการขาย 1 แสนบาทใน 30 วัน:\n\n1. **วางแผนการตลาด:**\n   - กำหนดกลุ่มเป้าหมายของผลิตภัณฑ์เวย์โปรตีนของคุณ เช่น นักกีฬา, คนที่ออกกำลังกาย, ผู้ที่ต้องการลดน้ำหนัก, หรือผู้ที่ต้องการเสริมสุขภาพทั่วไป\n   - วางแผนการโปรโมทผลิตภัณฑ์ของคุณผ่านช่องทางต่าง ๆ เช่น เว็บไซต์, โซเชียลมีเดีย, โฆษณาออนไลน์, หรือพื้นที่โซเชียลอื่น ๆ\n\n2. **การเสนอขาย:**\n   - ให้ข้อมูลที่ชัดเจนเกี่ยวกับผลิตภัณฑ์ เช่น ส่วนประกอบ, ประโยชน์, และวิธีการใช้\n   - จัดโปรโมชั่นหรือส่วนลดสำหรับลูกค้าในช่วงเวลาที่จะเปิดตัวผลิตภัณฑ์ของคุณ\n\n3. **สร้างความนิยม:**\n   - สร้างความสนใจต่อผลิตภัณฑ์ของคุณโดยการให้ข้อมูลที่มีค่าเกี่ยวกับสุขภาพและการออกกำลังกาย\n   - สร้างความติดตามและสร้างชุมชนที่สนับสนุนผลิตภัณฑ์ของคุณ\n\n4. **วิเคราะห์และประเมินผล:**\n   - ติดตามการขายและประเมินผลลัพธ์ของแผนการตลาดของคุณอย่างสม่ำเสมอ\n   - ปรับแผนการตลาดตามผลลัพธ์ที่ได้ เพื่อให้มั่นใจว่าคุณกำลังเดินไปในทิศทางที่ถูกต้อง\n\nการวางแผนและการสร้างยอดขายให้ผลิตภัณฑ์เวย์โปรตีนให้มียอดขาย "
+      }
+    ],
+    "completed_steps": [],
+    "next_questions": [],
+    "awaiting_validation": false,
+    "session_name": "Session การวางแผนเชิงกลยุทธ์",
+    "budget_range": null,
+    "timeline": null,
+    "rag_enabled": true,
+    "document_uploads": [],
+    "rag_metadata": null
+  },
+  "last_updated": "",
+  "created_at": ""
+}

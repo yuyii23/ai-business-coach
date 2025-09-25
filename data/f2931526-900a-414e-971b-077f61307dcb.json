@@ -1,0 +1,26 @@
+{
+  "session_id": "f2931526-900a-414e-971b-077f61307dcb",
+  "state": {
+    "brand_strategy": {
+      "target_audience": "hi",
+      "brand_identity": null,
+      "brand_archetypes": null,
+      "competition_analysis": null,
+      "mission_vision_values": null,
+      "brand_story": null,
+      "alignment_strategy": null,
+      "metrics_plan": null,
+      "vendor_recommendations": null
+    },
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "สวัสดีครับ/ค่ะ ขอบคุณที่เข้ามาใช้บริการคุยกับฉันครับ/ค่ะ\n\nหากคุณต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับกลุ่มเป้าหมายของคุณ แนะนำให้คุณตอบคำถามต่อไปนี้:\n1. กลุ่มเป้าหมายของคุณคือใคร? มีลักษณะอย่างไรบ้าง?\n2. คุณมีเป้าหมายที่ชัดเจนเกี่ยวกับกลุ่มเป้าหมายหรือไม่?\n3. คุณเข้าถึงกลุ่มเป้าหมายของคุณอย่างไร? มีวิธีการทำให้พวกเขาสนใจหรือไม่?\n\nหากคุณต้องการให้ข้อมูลเพิ่มเติมหรือมีคำถามเพิ่มเติม กรุณาแจ้งให้ฉันทราบได้เลยครับ/ค่ะ ฉันยินดีช่วยเหลือครับ/ค่ะ ขอบคุณมากๆครับ/ค่ะ"
+      }
+    ]
+  }
+}

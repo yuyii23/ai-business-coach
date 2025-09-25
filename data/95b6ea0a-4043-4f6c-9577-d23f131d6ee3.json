@@ -1,0 +1,69 @@
+{
+  "session_id": "95b6ea0a-4043-4f6c-9577-d23f131d6ee3",
+  "state": {
+    "user_id": "demo-user",
+    "session_id": "95b6ea0a-4043-4f6c-9577-d23f131d6ee3",
+    "current_phase": "business_discovery",
+    "current_step": "target_audience",
+    "user_profile": {
+      "business_name": "เวย์โปรตีน",
+      "industry": "สุขภาพ",
+      "business_stage": null,
+      "target_market": null,
+      "current_challenges": [
+        "ต้นทุนสูง ",
+        " คู่แข่งเยอะ"
+      ],
+      "goals": [
+        ""
+      ],
+      "extraction_metadata": {}
+    },
+    "brand_strategy": {
+      "target_audience": null,
+      "competition_analysis": null,
+      "mission_vision_values": null,
+      "brand_identity": null,
+      "brand_archetypes": null,
+      "brand_story": null,
+      "alignment_strategy": null,
+      "metrics_plan": null
+    },
+    "marketing_strategy": {
+      "situation_analysis": null,
+      "swot_analysis": null,
+      "marketing_objectives": null,
+      "customer_segments": null,
+      "competitive_analysis": null,
+      "positioning_strategy": null,
+      "priority_programs": null
+    },
+    "solution_data": {
+      "prioritization_matrix": null,
+      "vendor_recommendations": null,
+      "implementation_roadmap": null,
+      "success_metrics": null
+    },
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "อยากทำเวย์โปรตีน ช่วยแนะนำหน่อย"
+      },
+      {
+        "role": "assistant",
+        "content": "เวย์โปรตีนเป็นสินค้าที่ได้รับความนิยมในวงการฟิตเนสและการออกกำลังกาย เป็นเสริมอาหารที่ช่วยเสริมสร้างกล้ามเนื้อ ลดไขมัน และเสริมสร้างร่างกายให้มีสมรรถภาพอย่างเห็นผล การเลือกซื้อเวย์โปรตีนที่เหมาะสมจะช่วยให้คุณได้ผลลัพธ์ที่ดีขึ้น นี่คือบางขั้นตอนที่ควรพิจารณาเมื่อเลือกซื้อเวย์โปรตีน:\n\n1. ประเภทของโปรตีน: มีหลายประเภทของโปรตีนเช่น whey protein, casein protein, soy protein, pea protein เป็นต้น ควรเลือกโปรตีนที่เหมาะกับการใช้งานของคุณ เช่น whey protein เหมาะสำหรับการบำรุงกล้ามเนื้อหลังออกกำลังกาย เพื่อให้ร่างกายสามารถดูแลและฟื้นฟูอย่างดี\n\n2. รสชาติ: ควรเลือกโปรตีนที่มีรสชาติที่คุณชอบ เพราะจะทำให้คุณมีความสุขในการบริโภคและไม่เบื่อ\n\n3. คุณภาพของโปรตีน: ควรเลือกโปรตีนที่มีคุณภาพดี มีปริมาณโปรตีนสูง และไม่มีสารก่อภูมิแพ้หรือสารเคมีที่อันตราย\n\n4. ราคา: ควรพิจารณางบประมาณที่สามารถจ่ายได้ และเลือกซื้อเวย์โปรตีนที่มีคุณภาพดีที่สุดในราคาที่เหมาะสม\n\n5. ยี่ห้อ: ควรเลือกซื้อจากยี่ห้อที่มีชื่อเสียงและได้รับความนิยม เพื่อความมั่นใจในคุณภาพของสินค้า\n\nโดยทั่วไปแล้วเวย์โปรตีนจะมีคุณสมบัติที่ต่างกัน และควรเลือกตามความต้องการและวัตถุประสงค์ของการใช้งานของคุณ หากคุณมีความรู้เพิ่มเติมเกี่ยวกับวิธีการเลือกซื้อเวย์โปรตีน หรือมีข้อสงสัยเพิ่มเติม อย่าลังเลที่จะ"
+      }
+    ],
+    "completed_steps": [],
+    "next_questions": [],
+    "awaiting_validation": false,
+    "session_name": "Session การวางแผนเชิงกลยุทธ์",
+    "budget_range": null,
+    "timeline": null,
+    "rag_enabled": true,
+    "document_uploads": [],
+    "rag_metadata": null
+  },
+  "last_updated": "2025-09-24T19:35:26.401081",
+  "created_at": ""
+}
